@@ -8,6 +8,7 @@ public LabAssistant(String name, String id, String assignedLab) {
         super(name, id);
         this.assignedLab = assignedLab;
     }
+    // by baro name
  public void assistInLab() {
         System.out.println("Lab Assistant " + name + " is assisting in the " + assignedLab + " lab.");
     }
