@@ -3,6 +3,7 @@ package com.mycompany.dailyproject;
 // LabAssistant class
 public class LabAssistant extends User {
     private String assignedLab;
+    //by komy bire
 public LabAssistant(String name, String id, String assignedLab) {
         super(name, id);
         this.assignedLab = assignedLab;
