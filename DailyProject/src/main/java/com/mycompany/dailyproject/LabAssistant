@@ -1,0 +1,8 @@
+package com.mycompany.dailyproject;
+
+// LabAssistant class
+public class LabAssistant extends User {
+    private String assignedLab;
+
+ 
+}
